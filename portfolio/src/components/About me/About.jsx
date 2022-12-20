@@ -7,15 +7,11 @@ export default function About() {
       <div className="contenedor">
         <h2 className="seccion-titulo">Acerca de mi:</h2>
         <p className="seccion-texto">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis ea,
-          repudiandae, assumenda vitae qui fuga nobis voluptates hic facere
-          laboriosam laudantium, dolorem quam quas quae! Laborum veniam, nostrum
-          minima delectus dignissimos aliquam molestias repellat alias, commodi
-          earum quia unde modi ipsam consectetur incidunt tempore numquam vero.
-          Dicta consequatur sit dignissimos aut beatae ab cum sapiente,
-          voluptatum quos optio ducimus animi mollitia asperiores dolorem quidem
-          assumenda repellat quibusdam. Dicta exercitationem quibusdam
-          reprehenderit dignissimos accusamus.
+          Me llamo Frank, Soy un Full Stack Developer desde hace mucho estuve
+          interesado en conocer sobre este mundo de la programacion y me anime a
+          aprender durante la cuarentena. He llevado un Bootcamp en el que me
+          guiaron a dar mis primeros pasos y espero seguir aprendiendo mas dia a
+          dia.
         </p>
       </div>
     </section>
