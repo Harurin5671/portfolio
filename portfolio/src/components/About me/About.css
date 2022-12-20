@@ -1,0 +1,9 @@
+.sobre-mi {
+  height: 500px;
+  padding: 10px;
+}
+
+.sobre-mi .contenedor {
+  width: 600px;
+  text-align: center;
+}
