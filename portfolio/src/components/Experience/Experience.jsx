@@ -10,12 +10,9 @@ export default function Experience() {
             <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-front-end-ux-and-ui-flaticons-flat-flat-icons.png" />
             <p className="experiencia-titulo">Front-end</p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-              nulla consequatur iste laboriosam. Animi explicabo corporis omnis
-              nisi deserunt et nihil, possimus id est ullam eos accusamus?
-              Commodi porro sed praesentium placeat iste earum quaerat modi,
-              nisi corporis architecto temporibus blanditiis dignissimos eum
-              sequi aut.
+              Tengo experiencia en el Desarrollo Front-end haciendo un
+              Bootcamp-SoyHenry y aprendiendo tambien de manera individual
+              diferentes tecnologias e implementandolas en proyectos propios.
             </p>
             <div className="badges-contenedor">
               <span className="badge text-bg-primary">HTML</span>
@@ -30,12 +27,9 @@ export default function Experience() {
             <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-backend-no-code-flaticons-flat-flat-icons.png" />
             <p className="experiencia-titulo">Back-End</p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-              nulla consequatur iste laboriosam. Animi explicabo corporis omnis
-              nisi deserunt et nihil, possimus id est ullam eos accusamus?
-              Commodi porro sed praesentium placeat iste earum quaerat modi,
-              nisi corporis architecto temporibus blanditiis dignissimos eum
-              sequi aut.
+              Tengo experiencia en el Back-End debido al Bootcamp, En las cuales
+              conecte el Front-end con el Back, conecte la base de datos al back
+              y tambien tengo experiencia en el manejo de Api-rest
             </p>
             <div className="badges-contenedor">
               <span className="badge text-bg-primary">Node.js</span>
@@ -49,12 +43,9 @@ export default function Experience() {
             <img src="https://img.icons8.com/office/64/null/database-server.png" />
             <p className="experiencia-titulo">Base de Datos</p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-              nulla consequatur iste laboriosam. Animi explicabo corporis omnis
-              nisi deserunt et nihil, possimus id est ullam eos accusamus?
-              Commodi porro sed praesentium placeat iste earum quaerat modi,
-              nisi corporis architecto temporibus blanditiis dignissimos eum
-              sequi aut.
+              Durante el Bootcamp tuve que hacer proyectos tanto individuales
+              como grupales, Asi que durante esas etapas adquiri experiencia
+              manejando mongodb y SQL. Implementando las bases de datos.
             </p>
             <div className="badges-contenedor">
               <span className="badge text-bg-primary">Mongodb</span>
