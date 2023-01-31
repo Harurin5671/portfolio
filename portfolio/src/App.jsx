@@ -6,17 +6,19 @@ import Experience from "./components/Experience/Experience";
 import Proyectos from "./components/Proyectos/Proyectos";
 import Contacto from "./components/Contacto/Contacto";
 import Footer from "./components/Footer/Footer";
+import Home from "./components/Home/Home";
 
 function App() {
   return (
     <div>
-      <Nav />
+      {/* <Nav />
       <Hero />
       <About />
       <Experience />
       <Proyectos />
       <Contacto />
-      <Footer />
+      <Footer /> */}
+      <Home />
     </div>
   );
 }

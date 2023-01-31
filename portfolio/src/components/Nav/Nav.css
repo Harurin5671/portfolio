@@ -1,4 +1,4 @@
-.navbar {
+/* .navbar {
   padding: 2rem;
   background-color: #f5f6f7;
 }
@@ -10,8 +10,40 @@
 
 /* Adaptable(responsive) */
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
   .navbar-brand {
     display: none;
   }
+} */
+
+.navbar {
+  /* border: 2px solid red; */
+  position: absolute;
+  right: 380px;
+}
+
+/* .navbar_container { */
+/* } */
+
+.ul_nav {
+  width: 20rem;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.navbar_li {
+  text-align: center;
+  /* border: 2px solid red; */
+  color: #e7dfdd;
+}
+
+.navbar_a {
+  text-decoration: none;
+  color: #e7dfdd;
+  font-size: 1.2rem;
+}
+.navbar_a:hover {
+  color: #a239ca;
 }

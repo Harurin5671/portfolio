@@ -12,7 +12,7 @@ export default function Hero() {
           alt="foto-de-perfil"
         />
         <h1>Hola, Soy Frank Santos</h1>
-        <h2>Soy un Desarrolador Full Stack Developer</h2>
+        <h2>Full Stack Developer</h2>
       </div>
       <div className="hero-inferior">
         <img className="hero-inferior-imagen img-fluid" src={img} alt="img" />
