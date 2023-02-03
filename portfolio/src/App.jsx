@@ -10,7 +10,7 @@ import Home from "./components/Home/Home";
 
 function App() {
   return (
-    <div>
+    <div className="app">
       {/* <Nav />
       <Hero />
       <About />
