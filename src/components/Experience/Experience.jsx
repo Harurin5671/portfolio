@@ -21,6 +21,7 @@ export default function Experience() {
               <span className="badge text-bg-primary">React</span>
               <span className="badge text-bg-primary">Bootstrap</span>
               <span className="badge text-bg-primary">Redux</span>
+              <span className="badge text-bg-primary">Vue</span>
             </div>
           </div>
           <div className="columna col-12 col-md-4">
